@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dorna\\Documents\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\gui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\gui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|c:\\users\\dorna\\documents\\lab1\\lab1\\gui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\gui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bll\\userbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\validation\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\validation\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|C:\\Users\\dorna\\Documents\\Lab1\\lab1\\gui\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B719F5D2-CC44-46B4-AA10-4F7E0EEB8B96}|Lab1\\Lab1.csproj|solutionrelative:lab1\\gui\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx",
+              "RelativeDocumentMoniker": "Lab1\\GUI\\Login.aspx",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx",
+              "RelativeToolTip": "Lab1\\GUI\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-17T01:46:46.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Lab1\\GUI\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Lab1\\GUI\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:47:17.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Lab1\\GUI\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\GUI\\Login.aspx.cs",
+              "RelativeToolTip": "Lab1\\GUI\\Login.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:47:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginValidation.cs",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\VALIDATION\\LoginValidation.cs",
+              "RelativeDocumentMoniker": "Lab1\\VALIDATION\\LoginValidation.cs",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\VALIDATION\\LoginValidation.cs",
+              "RelativeToolTip": "Lab1\\VALIDATION\\LoginValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:45:44.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBLL.cs",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\BLL\\UserBLL.cs",
+              "RelativeDocumentMoniker": "Lab1\\BLL\\UserBLL.cs",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\BLL\\UserBLL.cs",
+              "RelativeToolTip": "Lab1\\BLL\\UserBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:44:41.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "Lab1\\DAL\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "Lab1\\DAL\\UserDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T01:42:53.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\Web.config",
+              "RelativeDocumentMoniker": "Lab1\\Web.config",
+              "ToolTip": "C:\\Users\\dorna\\Documents\\Lab1\\Lab1\\Web.config",
+              "RelativeToolTip": "Lab1\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-16T23:55:26.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
